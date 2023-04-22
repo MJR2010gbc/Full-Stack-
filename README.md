@@ -1,4 +1,4 @@
-# Deep-Learning--1
+# Full Stack Development--1
 This repo is for a group project for A.I. Development Solutions at George Brown College.
 ______________________________________________________________________________________________________
 
